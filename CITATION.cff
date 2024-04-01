@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Stumpless CLI for DOS
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/goatshriek/stumpless-dos"
+version: 0.1.0
+date-released: 2024-04-01
+keywords:
+  - cli
+  - logging
+authors:
+  - given-names: Joel
+    family-names: Anderson
+    email: joel@goatshriek.com
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.

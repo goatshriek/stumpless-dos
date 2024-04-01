@@ -1,0 +1,13 @@
+Begin3
+Title:          stmplss
+Version:        0.1.0
+Entered-date:   2024-04-01
+Description:    command line logging utility
+Keywords:       logger,cli
+Author:         joel@goatshriek.com (Joel Anderson)
+Maintained-by:  joel@goatshriek.com (Joel Anderson)
+Primary-site:   https://github.com/goatshriek/stumpless-dos
+Platforms:      DOS
+Copying-policy: Apache-2.0
+Summary: Logger utility to generate log messages conforming to RFC 5424.
+End
